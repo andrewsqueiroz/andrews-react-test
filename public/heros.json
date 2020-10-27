@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "codname": "SpiderMan",
+        "name": "Peter Paker",
+        "image": "./heros/spiderman.jpg",
+        "descricao": "Descrição do Personagem Lorem ipsum dolor sit amet, consectetur "
+    },
+    {
+        "id": 2,
+        "codname": "Wolverine",
+        "name": "James Howlet",
+        "image": "./heros/wolverine.jpg",
+        "descricao": "Descrição do Personagem Lorem ipsum dolor sit amet, consectetur "
+    },
+    {
+        "id": 3,
+        "codname": "Angel",
+        "name": "Angel Salvadore",
+        "image": "./heros/angel.jpg",
+        "descricao": "Descrição do Personagem Lorem ipsum dolor sit amet, consectetur "
+    },
+    {
+        "id": 4,
+        "codname": "Beta Ray Bill",
+        "name": "Beta Ray Bill",
+        "image": "./heros/billbeta.jpg",
+        "descricao": "Descrição do Personagem Lorem ipsum dolor sit amet, consectetur "
+    },
+    {
+        "id": 5,
+        "codname": "Betty Brant",
+        "name": "Betty Brant",
+        "image": "./heros/betiBrant.jpg",
+        "descricao": "Descrição do Personagem Lorem ipsum dolor sit amet, consectetur "
+    },
+    {
+        "id": 6,
+        "codname": "SpiderMan",
+        "name": "Miles Morales",
+        "image": "./heros/spidermorales.jpg",
+        "descricao": "Descrição do Personagem Lorem ipsum dolor sit amet, consectetur "
+    },
+    {
+        "id": 7,
+        "codname": "Blob",
+        "name": "Frederick J Dukes",
+        "image": "./heros/blob.jpg",
+        "descricao": "Descrição do Personagem Lorem ipsum dolor sit amet, consectetur "
+    },
+    {
+        "id": 8,
+        "codname": "Blade",
+        "name": "Erick Brooks",
+        "image": "./heros/blade.jpg",
+        "descricao": "Descrição do Personagem Lorem ipsum dolor sit amet, consectetur "
+    },
+    {
+        "id": 9,
+        "codname": "Charles Xavier",
+        "name": "Charles Xavier",
+        "image": "./heros/professorx.jpg",
+        "descricao": "Descrição do Personagem Lorem ipsum dolor sit amet, consectetur "
+    },
+    {
+        "id": 10,
+        "codname": "Captain America",
+        "name": "Steve Rogers",
+        "image": "./heros/captaoAmerica.jpg",
+        "descricao": "Descrição do Personagem Lorem ipsum dolor sit amet, consectetur "
+    },
+    {
+        "id": 11,
+        "codname": "Corsair",
+        "name": "Chistopher Summers",
+        "image": "./heros/summaster.jpg",
+        "descricao": "Descrição do Personagem Lorem ipsum dolor sit amet, consectetur "
+    },
+    {
+        "id": 12,
+        "codname": "Ben Urich",
+        "name": "Ben Urich",
+        "image": "./heros/ben.jpg",
+        "descricao": "Descrição do Personagem Lorem ipsum dolor sit amet, consectetur "
+    },
+    {
+        "id": 13,
+        "codname": "Ciclope",
+        "name": "Scott Summers",
+        "image": "./heros/ciclope.jpg",
+        "descricao": "Descrição do Personagem Lorem ipsum dolor sit amet, consectetur "
+    },
+    {
+        "id": 14,
+        "codname": "Hulk",
+        "name": "Bruce Banner",
+        "image": "./heros/hulk.jpg",
+        "descricao": "Descrição do Personagem Lorem ipsum dolor sit amet, consectetur "
+    },
+    {
+        "id": 15,
+        "codname": "Thor",
+        "name": "Thor",
+        "image": "./heros/thor.jpg",
+        "descricao": "Descrição do Personagem Lorem ipsum dolor sit amet, consectetur "
+    },
+    {
+        "id": 16,
+        "codname": "Iron Man",
+        "name": "Tony Stark",
+        "image": "./heros/ironman.jpg",
+        "descricao": "Descrição do Personagem Lorem ipsum dolor sit amet, consectetur "
+    }
+]

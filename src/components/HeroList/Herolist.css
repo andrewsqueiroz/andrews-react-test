@@ -1,0 +1,42 @@
+  .pagination {
+    color: #c2cbd2;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+  }
+  .pagination .input {
+    width: 40px;
+    height: 30px;
+    text-align: center;
+    margin-right: 10px;
+  }
+  .pagination .numbers {
+    display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  .pagination .btns {
+    width: 22px;
+    height: 40px;
+    border-radius: 3px;
+    border: solid 1px #c2cbd2;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    margin: 0 10px;
+  }
+  
+  .emptList {
+    text-align: center;
+    margin: 20px
+  }
+  .orderby {
+    float: left;
+    margin: 10px 20px;
+    cursor: pointer;
+  }
+  .orderby img {
+    margin: 0 10px;
+  }
